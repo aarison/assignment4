@@ -1,2 +1,2 @@
 # assignment4
-Assignment 4: Using Github
+This is a test project
